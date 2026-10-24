@@ -1,0 +1,11 @@
+{
+    "contract_id": "bodhi.quarantine.v1",
+    "identity": "100048777766367/quarantine",
+    "archetype": "TRUTH_ORACLE",
+    "role": "ISOLATION_REWORK_CLINIC",
+    "network_partners": {
+        "review": "100048777766367/review",
+        "testing": "100048777766367/testing"
+    },
+    "io_specification": "I/O (ISOLATION_REWORK_CLINIC)"
+}
